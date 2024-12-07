@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: new-instance
+    name: thegenesis
     env: python
     region: Oregon
     plan: free
